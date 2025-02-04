@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "beat",
+    "file": "samples/127212__reaktorplayer__off-beat-3.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "piano",
+    "file": "samples/32158__zin__piano_2_140bpm.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "boom",
+    "file": "samples/16793__pushtobreak__earth1.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
