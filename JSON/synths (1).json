@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Down",
+    "type": "Synth",
+    "settings": {
+      "volume": 5.999999999999998,
+      "detune": -753,
+      "portamento": "0",
+      "envelope": {
+        "attack": "4",
+        "attackCurve": "sine",
+        "decay": "6",
+        "decayCurve": "linear",
+        "release": "1.825",
+        "releaseCurve": "linear",
+        "sustain": ""
+      },
+      "oscillator": {
+        "partialCount": 2,
+        "partials": [
+          1.2732395447351628,
+          0
+        ],
+        "phase": 0,
+        "type": "amsquare2",
+        "harmonicity": 4,
+        "modulationType": "square"
+      }
+    }
+  }
+]
