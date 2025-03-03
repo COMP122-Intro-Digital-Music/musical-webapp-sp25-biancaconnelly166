@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "Up",
+    "type": "Synth",
+    "settings": {
+      "volume": 2,
+      "detune": 723,
+      "portamento": "0",
+      "envelope": {
+        "attack": "2",
+        "attackCurve": "exponential",
+        "decay": "0.205",
+        "decayCurve": "linear",
+        "release": "2",
+        "releaseCurve": "linear",
+        "sustain": "0.205"
+      },
+      "oscillator": {
+        "partialCount": 22,
+        "partials": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "phase": 53,
+        "type": "fmsine22",
+        "harmonicity": 4,
+        "modulationIndex": 2,
+        "modulationType": "sawtooth"
+      }
+    }
+  }
+]
