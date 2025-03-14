@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "heartbeat",
+    "pitch": "A3",
+    "pattern": "101010101"
+  },
+  {
+    "name": "chirp",
+    "pitch": "C4",
+    "pattern": "100100100"
+  },
+  {
+    "name": "beep",
+    "pitch": "C#4",
+    "pattern": "100100101"
+  },
+  {
+    "name": "boom",
+    "pitch": "F4",
+    "pattern": "101010101"
+  }
+]
